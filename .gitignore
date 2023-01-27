@@ -1,0 +1,46 @@
+
+
+# for Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IntelliJ
+*.iml
+.idea/
+
+# VScode
+.vscode/
+
+# Google Services (e.g. APIs or Firebase) + Google API key and other resources
+google-services.json
+GoogleService-Info.plist
+google-services.json
+firebase_app_id_file.json
+# apiKey
+lib/firebase_options.dart
+
+# Plugins (already resolved through pubspec.yaml)
+.flutter-plugins
+
+# Miscellaneous
+*.class
+pubspec.lock
+*.log
+*.pyc
+*.swp
+.atom/
+.buildlog/
+.history
+.svn/
+
